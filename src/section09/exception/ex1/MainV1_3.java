@@ -1,11 +1,11 @@
-package section09.exception.ex01;
+package section09.exception.ex1;
 
 import java.util.Scanner;
 
-public class MainV1_2 {
+public class MainV1_3 {
 
     public static void main(String[] args) {
-        NetworkServiceV1_2 networkService = new NetworkServiceV1_2();
+        NetworkServiceV1_3 networkService = new NetworkServiceV1_3();
 
         Scanner scanner = new Scanner(System.in);
         while (true) {

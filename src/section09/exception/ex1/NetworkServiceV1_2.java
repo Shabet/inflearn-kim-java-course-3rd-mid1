@@ -1,4 +1,4 @@
-package section09.exception.ex01;
+package section09.exception.ex1;
 
 public class NetworkServiceV1_2 {
 
