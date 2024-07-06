@@ -1,9 +1,9 @@
 package section09.exception.checked;
 
 public class Client {
-    public void call() {
+    public void call() throws MyCheckedException {
 
         //문제 상황
-        //throws new MyCheckedException("ex");
+        throw new MyCheckedException("ex");
     }
 }
